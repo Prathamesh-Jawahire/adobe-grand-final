@@ -1,0 +1,32 @@
+[
+    {
+        "text": "Cooking Classes",
+        "source_document": "South_of_France_-_Things_to_Do.pdf",
+        "page_number": 4,
+        "similarity_score": 0.6163
+    },
+    {
+        "text": "Culinary Experiences",
+        "source_document": "South_of_France_-_Cuisine.pdf",
+        "page_number": 5,
+        "similarity_score": 0.4654
+    },
+    {
+        "text": "Culinary Traditions",
+        "source_document": "South_of_France_-_Traditions_and_Culture.pdf",
+        "page_number": 2,
+        "similarity_score": 0.4559
+    },
+    {
+        "text": "Culinary Delights",
+        "source_document": "South_of_France_-_Things_to_Do.pdf",
+        "page_number": 4,
+        "similarity_score": 0.3925
+    },
+    {
+        "text": "Montpellier: A University City with Medieval Charm",
+        "source_document": "South_of_France_-_Cities.pdf",
+        "page_number": 9,
+        "similarity_score": 0.3873
+    }
+]
