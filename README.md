@@ -5,6 +5,7 @@ Adobe PDF Intel is a full‑stack web application for rapid, AI‑assisted docum
 Backend: FastAPI (port 8000)
 Frontend: Next.js (port 3000)
 
+ADOBE PDF EMBED API KEY= f496296468fe4368a82ff414dac3c85f
 ## Key Features
 
 - Relevant Sections (under ~15 seconds)
