@@ -1,6 +1,7 @@
 # Adobe PDF Intel
 
 Adobe PDF Intel is a full‑stack web application for rapid, AI‑assisted document intelligence. It lets you upload PDFs, select text in‑document, and instantly obtain insights, summaries, podcasts (TTS), and cross‑document “relevant sections” — all via a modern, responsive UI and deliberately simple ui to target larger customers.
+Also our highlight is the 1A code which executes around 20 pdf files with 50 pages under 5 seconds with accurate outptut.
 
 Backend: FastAPI (port 8000)
 Frontend: Next.js (port 3000)
