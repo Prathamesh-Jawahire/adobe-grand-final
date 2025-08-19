@@ -107,6 +107,9 @@ docker run -p 8000:8000 -p 3000:3000 --name document-intel-api prathameshjawahir
 ```
 Then visit http://localhost:3000
 
+when you run docker run command wait for a while to run backend on localhost:8000
+once is shows json you are ready to you a working frontend on localhost:3000
+
 ## Troubleshooting
 
 - If the frontend can’t reach the backend, ensure the backend is running on 8000 and the frontend proxies (or `NEXT_PUBLIC_API_BASE_URL`) are configured appropriately.
